@@ -1,0 +1,14 @@
+C:\Users\aluno\source\repos\ProjBiblioteca\ProjBiblioteca\bin\Debug\net8.0\ProjBiblioteca.exe
+C:\Users\aluno\source\repos\ProjBiblioteca\ProjBiblioteca\bin\Debug\net8.0\ProjBiblioteca.deps.json
+C:\Users\aluno\source\repos\ProjBiblioteca\ProjBiblioteca\bin\Debug\net8.0\ProjBiblioteca.runtimeconfig.json
+C:\Users\aluno\source\repos\ProjBiblioteca\ProjBiblioteca\bin\Debug\net8.0\ProjBiblioteca.dll
+C:\Users\aluno\source\repos\ProjBiblioteca\ProjBiblioteca\bin\Debug\net8.0\ProjBiblioteca.pdb
+C:\Users\aluno\source\repos\ProjBiblioteca\ProjBiblioteca\obj\Debug\net8.0\ProjBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\source\repos\ProjBiblioteca\ProjBiblioteca\obj\Debug\net8.0\ProjBiblioteca.AssemblyInfoInputs.cache
+C:\Users\aluno\source\repos\ProjBiblioteca\ProjBiblioteca\obj\Debug\net8.0\ProjBiblioteca.AssemblyInfo.cs
+C:\Users\aluno\source\repos\ProjBiblioteca\ProjBiblioteca\obj\Debug\net8.0\ProjBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ProjBiblioteca\ProjBiblioteca\obj\Debug\net8.0\ProjBiblioteca.dll
+C:\Users\aluno\source\repos\ProjBiblioteca\ProjBiblioteca\obj\Debug\net8.0\refint\ProjBiblioteca.dll
+C:\Users\aluno\source\repos\ProjBiblioteca\ProjBiblioteca\obj\Debug\net8.0\ProjBiblioteca.pdb
+C:\Users\aluno\source\repos\ProjBiblioteca\ProjBiblioteca\obj\Debug\net8.0\ProjBiblioteca.genruntimeconfig.cache
+C:\Users\aluno\source\repos\ProjBiblioteca\ProjBiblioteca\obj\Debug\net8.0\ref\ProjBiblioteca.dll
